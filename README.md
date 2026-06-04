@@ -108,6 +108,8 @@ Precision, Recall and F1-score above 0.98 for all classes.
 ### Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
+
+
 The confusion matrix visualizes model predictions across all digit classes.
 
 ### Key Observations
